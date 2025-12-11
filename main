@@ -1,4 +1,3 @@
-{
-    return "PlayerName": "dodo123"
-    "PlayerName": "dodo123"
+return {
+    PlayerName = "dodo123"
 }
