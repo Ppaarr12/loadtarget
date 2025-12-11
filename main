@@ -1,3 +1,5 @@
 return {
-    PlayerName = "dodo123"
+    PlayerName = "dodo123",
+    Level = 50,
+    Coins = 1000
 }
